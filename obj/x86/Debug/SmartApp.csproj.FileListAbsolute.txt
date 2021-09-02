@@ -1,0 +1,251 @@
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.exe
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.exe
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.dll
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\opts\Properties.xml
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.exe
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.pdb
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\opts\Properties.xml
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.exe
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.pdb
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.dll
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.pdb
+D:\DESARROLLO SOTFWARE\VS2010\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.exe
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.pdb
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\opts\Properties.xml
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.exe
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.pdb
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.dll
+D:\DESARROLLO SOTFWARE\VS2012\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\bin\Debug\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SOTFWARE SMARTAPP\SmartApp\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.exe
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\bin\Debug\opts\Properties.xml
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\bin\Debug\SmartApp.exe
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\bin\Debug\SmartApp.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\bin\Debug\KeyBoard.dll
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\bin\Debug\KeyBoard.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Debug\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Debug\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Debug\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Debug\SmartApp.exe
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Debug\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Debug\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Debug\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Debug\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Debug\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Debug\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Debug\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Debug\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\bin\Debug\opts\Properties.xml
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\bin\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\bin\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\bin\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\bin\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\bin\Debug\KeyBoard.dll
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\bin\Debug\KeyBoard.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\01_SmartApp 17.02.2017\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\bin\Debug\opts\Properties.xml
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\bin\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\bin\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\bin\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\bin\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\bin\Debug\KeyBoard.dll
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\bin\Debug\KeyBoard.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Documents\Visual Studio 2012\Projects\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Documents\Visual Studio 2012\Projects\Version Smart App\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Documents\Visual Studio 2012\Projects\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Documents\Visual Studio 2012\Projects\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\bin\Debug\opts\Properties.xml
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.dll
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.pdb
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\Workspace Firmware\Software\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.KeyboardForm.resources
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\bin\Debug\opts\Properties.xml
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\bin\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.dll
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.pdb
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.KeyboardForm.resources
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\Demo\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\opts\Properties.xml
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe.manifest
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\SmartApp.application
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.dll
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.pdb
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.KeyboardForm.resources
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+G:\_Proyecto\SmartAPP\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\opts\Properties.xml
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.dll
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.pdb
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.KeyboardForm.resources
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\wplanchez\Desktop\Respaldo Smart APP\Respaldo App 150517\SmartApp_011116\SmartApp\bin\Debug\SmartApp.pdb
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\opts\Properties.xml
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.application
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.pdb
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.dll
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.pdb
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.KeyboardForm.resources
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\opts\Properties.xml
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe.manifest
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.application
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.exe
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\SmartApp.pdb
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.dll
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\bin\Debug\KeyBoard.pdb
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.KeyboardForm.resources
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.MessageBoxConexion.resources
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Principal.resources
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.Properties.Resources.resources
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.csproj.GenerateResource.Cache
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe.manifest
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.application
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\jrodriguez.DESTFHKA\Documents\Henyu\APP\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.HenyuBoard.resources
+F:\APP\Codigo Fuente\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+F:\APP\Codigo Fuente\Codigo Fuente\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.HenyuBoard.resources
+H:\Anonymous-PC\_PROYECTOS_\C#\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.exe
+H:\Anonymous-PC\_PROYECTOS_\C#\SmartApp_011116\SmartApp\obj\x86\Debug\SmartApp.pdb

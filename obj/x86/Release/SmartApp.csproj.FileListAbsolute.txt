@@ -1,0 +1,104 @@
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Release\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Release\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Release\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.csproj.GenerateResource.Cache
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\bin\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_170816\SmartApp\obj\x86\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.csproj.GenerateResource.Cache
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\bin\Release\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\bin\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\bin\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\bin\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\bin\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\bin\Release\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\bin\Release\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp\SmartApp\obj\x86\Release\SmartApp.application
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.exe
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\bin\Release\opts\Properties.xml
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\bin\Release\SmartApp.exe.manifest
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\bin\Release\SmartApp.application
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\bin\Release\SmartApp.exe
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\bin\Release\SmartApp.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\bin\Release\KeyBoard.dll
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\bin\Release\KeyBoard.pdb
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.csprojResolveAssemblyReference.cache
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.MessageBoxConexion.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.Principal.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.Properties.Resources.resources
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.csproj.GenerateResource.Cache
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.exe.manifest
+E:\PROYECTOS FRW\ARM\VENEZUELA\SMARTKEY\SOTFWARE SMARTAPP\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SMARTKEY_FISCAT\Misc\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816\SmartApp\obj\x86\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Release\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Release\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\bin\Release\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.csproj.GenerateResource.Cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_230816 - copia\SmartApp\obj\x86\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Release\opts\Properties.xml
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Release\SmartApp.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Release\KeyBoard.dll
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\bin\Release\KeyBoard.pdb
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.csprojResolveAssemblyReference.cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.MessageBoxConexion.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.Principal.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.Properties.Resources.resources
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.csproj.GenerateResource.Cache
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.exe.manifest
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.application
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.exe
+D:\Proyectos TFHKA\Venezuela\SmartKey Fiscat\Misc\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.pdb
+G:\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.exe
+G:\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.exe
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.MessageBoxConexion.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.Principal.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.Properties.Resources.resources
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.csproj.GenerateResource.Cache
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\bin\Release\opts\Properties.xml
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\bin\Release\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\bin\Release\SmartApp.application
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\bin\Release\SmartApp.exe
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\bin\Release\SmartApp.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\bin\Release\KeyBoard.dll
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\bin\Release\KeyBoard.pdb
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.exe.manifest
+C:\Users\wplanchez\Desktop\On Work\Desarrollo de Firmware\FISCAT\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.application
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.exe
+C:\Users\wplanchez\Google Drive\DEP_FIRMWARE\Workspace\SOFTWARE\SMARTAPP\SmartApp_011116\SmartApp\obj\x86\Release\SmartApp.pdb
